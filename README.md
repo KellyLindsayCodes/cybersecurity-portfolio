@@ -11,22 +11,7 @@ In this portfolio, you'll find practical projects that span threat analysis, sec
 
 ## 🚀 Featured Projects
 
-### [Password Strength Checker GUI](https://github.com/KellyLindsayCodes/python-password-strength-checker-GUI)
-**Python** | **Input Validation** | **Technical Documentation**
-- Built a Python-based password evaluation tool that provides real-time feedback on password strength and compliance with security requirements
-- Implemented robust input validation, error handling, and condition-based scoring logic
-- Authored detailed pseudocode and user-facing documentation to support usability and future development
-- Participated in peer code review and paired programming to ensure quality and collaborative problem-solving
-
-### [Phishing Awareness Campaign](https://github.com/KellyLindsayCodes/phishing-awareness-campaign)
-**Security Awareness** | **GoPhish** | **User Behaviour Analysis** | **Social Engineering**
-- Developed and deployed a simulated phishing campaign to raise employee awareness of social engineering risks
-- Designed realistic phishing emails and ethical landing pages as part of a group project demonstrating key social engineering tactics
-- Expanded functionality by generating a simulated user base of 100 employees using a Python library
-- Implemented backend logging and data capture to identify which users clicked links, who completed training, and when interactions occurred (simulated)
-- Conducted analysis on engagement patterns, including click rates, peak response times, and completion metrics to evaluate campaign effectiveness
-
-#### [Blue Team SQL Injection Attack Simulation](insert github)
+#### [Blue Team SQL Injection Attack Simulation](https://github.com/KellyLindsayCodes/Blue-Team-SQLi-attack-Snort-IDS)
 **Blue Team Operations** | **Healthcare Security** | **Intrusion Detection**
 - Conducted a simulated SQL injection (SQLi) attack targeting a mock healthcare database to assess detection and response capabilities
 - Acted as part of the Blue Team to monitor, detect, and defend against unauthorised access attempts
@@ -41,6 +26,21 @@ In this portfolio, you'll find practical projects that span threat analysis, sec
 - Developed Splunk searches and dashboards to detect anomalies such as unusual traffic patterns, port scans, and protocol misuse
 - Used Splunk’s visualization tools to track communication flows and highlight potential indicators of compromise within network captures
 - Documented analysis findings, including identified suspicious events and recommended mitigation strategies to strengthen network defenses
+
+### [Password Strength Checker GUI](https://github.com/KellyLindsayCodes/python-password-strength-checker-GUI)
+**Python** | **Input Validation** | **Technical Documentation**
+- Built a Python-based password evaluation tool that provides real-time feedback on password strength and compliance with security requirements
+- Implemented robust input validation, error handling, and condition-based scoring logic
+- Authored detailed pseudocode and user-facing documentation to support usability and future development
+- Participated in peer code review and paired programming to ensure quality and collaborative problem-solving
+
+### [Phishing Awareness Campaign](https://github.com/KellyLindsayCodes/phishing-awareness-campaign)
+**Security Awareness** | **GoPhish** | **User Behaviour Analysis** | **Social Engineering**
+- Developed and deployed a simulated phishing campaign to raise employee awareness of social engineering risks
+- Designed realistic phishing emails and ethical landing pages as part of a group project demonstrating key social engineering tactics
+- Expanded functionality by generating a simulated user base of 100 employees using a Python library
+- Implemented backend logging and data capture to identify which users clicked links, who completed training, and when interactions occurred (simulated)
+- Conducted analysis on engagement patterns, including click rates, peak response times, and completion metrics to evaluate campaign effectiveness
 
 ### [Install and Manage Windows Server Infrastructure](insert github)
 **System Administration** | **Active Directory** | **DHCP** | **Group Policy**
